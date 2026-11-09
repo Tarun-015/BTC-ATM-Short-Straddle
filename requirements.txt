@@ -1,0 +1,7 @@
+nautilus_trader==2.0.0rc8
+streamlit
+plotly
+pandas
+python-dotenv
+pytest
+streamlit-autorefresh
